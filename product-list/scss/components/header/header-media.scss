@@ -1,9 +1,0 @@
-.header{
-   @include large-max() {
-     &__bottom {
-       .nav-search {
-         padding: 0;
-       }
-     }
-   }
-}
